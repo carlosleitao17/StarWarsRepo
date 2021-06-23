@@ -1,0 +1,31 @@
+git add <archives li>
+It adds/promotes the new/changed files to be commited
+
+git add .
+it adds/promotes all the files to be commited
+
+git commit
+commits the files in the commit stage
+
+git commit [-m "Message"]
+commits the files in the commit stage with a message
+
+git push
+//send files in the commit stage to the remote repository
+
+to config the text editor: git config --global core.editor gedit
+
+git status
+//show the status of the commit stage of the local repository
+
+
+git workflow
+
+
+	- Edit files
+	
+	- Add files to commit stage
+	
+	- Commit files to repository
+	
+	- Syncronize local repo with remote repositories
